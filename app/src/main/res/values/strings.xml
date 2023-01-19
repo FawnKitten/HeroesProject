@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Heroes</string>
+    <string name="description">Description</string>
+    <string name="ranking">Ranking</string>
+    <string name="sort_order">Sort Order</string>
+    <string name="sort_by_ranking">Sort By Ranking</string>
+    <string name="sort_by_name">Sort By Name</string>
+</resources>
